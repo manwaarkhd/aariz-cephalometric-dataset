@@ -10,10 +10,10 @@ The salient features of our dataset are summarized as follows:
   </ul>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="docs/dataset-example-images.svg">
-</p>
-<p align="center"> A diverse collection of sample images from various imaging devices along with their cephalometric landmarks and CVM stage </p>
+</div>
+<div align="center"> A diverse collection of sample images from various imaging devices along with their cephalometric landmarks and CVM stage </div>
 
 # Acknowledgements
 We would like to express our heartfelt gratitude to all of the clinicians at <a href="https://www.riphah.edu.pk/dental-sciences/">Islamic International Dental College</a> for their tireless efforts and contributions to the annotation process of this dataset. This research would not have been possible without the support of <a href="https://www.riphah.edu.pk">Riphah International University</a>, Islamabad, Pakistan. We also extend our sincere thanks to the patients who provided consent for the use of their cephalometric images. Finally, we would like to acknowledge the valuable feedback and suggestions provided by the anonymous reviewers, which helped us improve the quality of this dataset.
