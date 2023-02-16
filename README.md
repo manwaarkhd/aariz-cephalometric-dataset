@@ -15,10 +15,14 @@ The salient features of our dataset are summarized as follows:
 </div>
 <div align="center"> A diverse collection of sample images from various imaging devices along with their cephalometric landmarks and CVM stage </div>
 
+# CEPHA29 Challenge 2023
+To facilitate the development of robust AI solutions for morphometric analysis, we also organised the <a href="http://vision.seecs.edu.pk/CEPHA29/">CEPHA29 Automatic Cephalometric Landmark Detection Challenge</a> in conjunction with <a href="https://2023.biomedicalimaging.org/en/CHALLENGES.html">IEEE International Symposium on Biomedical Imaging</a> (ISBI 2023). This is a great opportunity for researchers and practitioners in the field to test their algorithms on a standardized platform. We believe that by hosting our dataset as a challenge, we can promote the development of new and innovative solutions to problems in the field.
+
 # Acknowledgements
 We would like to express our heartfelt gratitude to all of the clinicians at <a href="https://www.riphah.edu.pk/dental-sciences/">Islamic International Dental College</a> for their tireless efforts and contributions to the annotation process of this dataset. This research would not have been possible without the support of <a href="https://www.riphah.edu.pk">Riphah International University</a>, Islamabad, Pakistan. We also extend our sincere thanks to the patients who provided consent for the use of their cephalometric images. Finally, we would like to acknowledge the valuable feedback and suggestions provided by the anonymous reviewers, which helped us improve the quality of this dataset.
 
 # Cite
+Please consider citing our dataset in your research work if you find it helpful to your study.
 ```
 @article{
   title={'Aariz: A Benchmark Dataset for Automatic Cephalometric Landmark Detection and CVM Stage Classification},
