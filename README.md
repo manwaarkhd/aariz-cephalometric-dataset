@@ -15,6 +15,14 @@ The salient features of our dataset are summarized as follows:
 </div>
 <div align="center"> A diverse collection of sample images from various imaging devices along with their cephalometric landmarks and CVM stage </div>
 
+# Usage Guide
+To create an object of the dataset class and use it to read images and their corresponding annotations, you can first import the <code>AarizDataset</code> and then instantiate the class with the appropriate parameters, such as the <code>dataset_folder_path</code> containing the images and annotations, the <code>mode</code> for which to read the files i.e <code>TRAIN</code>, <code>VALID</code> and <code>TEST</code>.
+```
+from dataset import AarizDataset
+dataset = AarizDataset(dataset_folder_path="folder/to/dataset", mode="TRAIN")
+images, landmarks, cvm_stages = dataset[0]
+```
+
 # CEPHA29 Challenge 2023
 To facilitate the development of robust AI solutions for morphometric analysis, we also organised the <a href="http://vision.seecs.edu.pk/CEPHA29/">CEPHA29 Automatic Cephalometric Landmark Detection Challenge</a> in conjunction with <a href="https://2023.biomedicalimaging.org/en/CHALLENGES.html">IEEE International Symposium on Biomedical Imaging</a> (ISBI 2023). This is a great opportunity for researchers and practitioners in the field to test their algorithms on a standardized platform. We believe that by hosting our dataset as a challenge, we can promote the development of new and innovative solutions to problems in the field.
 
