@@ -10,7 +10,10 @@ The salient features of our dataset are summarized as follows:
   </ul>
 </p>
 
-<img>
+<p align="center">
+  <img src="docs/dataset-example-images.svg">
+</p>
+<p align="center"> A diverse collection of sample images from various imaging devices along with their cephalometric landmarks and CVM stage </p>
 
 # Cite
 ```
