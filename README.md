@@ -9,3 +9,15 @@ The salient features of our dataset are summarized as follows:
     <li> By annotating the <strong> CVM stages </strong> of each cephalogram in our dataset, we have also created the first standard resource for automatic CVM classification. </li>
   </ul>
 </p>
+
+<img>
+
+# Cite
+```
+@article{
+  title={'Aariz: A Benchmark Dataset for Automatic Cephalometric Landmark Detection and CVM Stage Classification},
+  author={Khalid, Muhammad Anwaar and Zulfiqar, Kanwal and Bashir, Ulfat and Shaheen, Areeba and Iqbal, Rida and Rizwan, Zarnab and Rizwan, Ghina and Fraz, Muhammad Moazam}
+  journal={arXiv preprint arXiv:2302.07797},
+  year={2023}
+}
+```
