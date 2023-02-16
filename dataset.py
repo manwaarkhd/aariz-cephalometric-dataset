@@ -4,7 +4,7 @@ import json
 import cv2
 import os
 
-class CEPHA29(object):
+class AarizDataset(object):
     
     def __init__(self, dataset_folder_path: str, mode: str):
         
