@@ -30,7 +30,7 @@ To facilitate the development of robust AI solutions for morphometric analysis, 
 We would like to express our heartfelt gratitude to all of the clinicians at <a href="https://www.riphah.edu.pk/dental-sciences/">Islamic International Dental College</a> for their tireless efforts and contributions to the annotation process of this dataset. This research would not have been possible without the support of <a href="https://www.riphah.edu.pk">Riphah International University</a>, Islamabad, Pakistan. We also extend our sincere thanks to the patients who provided consent for the use of their cephalometric images. Finally, we would like to acknowledge the valuable feedback and suggestions provided by the anonymous reviewers, which helped us improve the quality of this dataset.
 
 # Cite
-Please consider citing our dataset in your research work if you find it helpful to your study.
+Please consider citing our <a href="https://arxiv.org/pdf/2302.07797.pdf">dataset</a> in your research if you find it helpful to your study.
 ```
 @article{
   title={'Aariz: A Benchmark Dataset for Automatic Cephalometric Landmark Detection and CVM Stage Classification},
